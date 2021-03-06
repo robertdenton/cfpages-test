@@ -1,3 +1,13 @@
+# Testing out Gatsby with Cloudflare Pages
+
+See:
+
+- [Gatsby getting started](https://www.gatsbyjs.com/docs/quick-start/)
+- [Theme: Gatsbyfolio](https://github.com/cobidev/gatsby-simplefolio)
+- [Deploy Gatsby with Cloudflare Pages](https://developers.cloudflare.com/pages/how-to/deploy-a-gatsby-site)
+
+---
+
 # Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
 
 ## A clean, beautiful and responsive portfolio template for Developers
